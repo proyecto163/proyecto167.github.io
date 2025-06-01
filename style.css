@@ -1,0 +1,52 @@
+.formato1 {
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    list-style-type: lower-roman;
+    color: darkblue;
+}
+.formato2 {
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 70;
+    list-style-type: lower-roman;
+    color: darkblue;
+    
+}
+.formato3 {
+    height:600px; 
+    width: 1500px;
+}
+.h {
+    height: 40px;
+    width: 300px;
+    background-color: royalblue;
+    color: white;
+    list-style-type: lower-roman;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5px;
+
+}
+.h2 {
+    height: 10px;
+    width: 1500;
+    background-color: blue;
+}
+.redes {
+    height: 20px;
+    width: 20px;
+}
+.youtube {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 70;
+    list-style-type: lower-roman;
+    color: red;
+}
+.instagram {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 70;
+    list-style-type: lower-roman;
+    color: purple;
+}
