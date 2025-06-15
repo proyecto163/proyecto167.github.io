@@ -1,14 +1,24 @@
-a {
-    font-size: 25px;
+.formato1 {
+    font-size: 400%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 70;
+    font-weight: 400%;
     list-style-type: lower-roman;
     color: darkblue;
 }
-.formato1 {
-    font-size: 60px;
+.formato2 {
+    font-size: 200%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 100;
+    font-weight: 200%;
     list-style-type: lower-roman;
     color: darkblue;
+    
+}
+.redes {
+    height:20%; 
+    width: 100%;
+}
+.red {
+    height:10%; 
+    width: 20%;
+    
 }
