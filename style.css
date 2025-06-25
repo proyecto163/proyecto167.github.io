@@ -55,3 +55,10 @@
     width: 40px;
 
 }
+.tik {
+     font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 70;
+    list-style-type: lower-roman;
+    color: black;
+}
